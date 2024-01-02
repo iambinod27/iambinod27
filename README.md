@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/Oj5w7lOaR5ieNpuBhn/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/Ztfno2Qtm2dVxS81f5/giphy.gif" width="300"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Binod Waiba Tamang</h1>
