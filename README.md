@@ -8,8 +8,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iambinod27&label=Profile%20views&color=0e75b6&style=flat" alt="iambinod27" /> </p>
 
-- 🔭 I’m currently working on [CricApp](https://github.com/iambinod27/react-cricket-update)
-
 - 🌱 I’m currently learning **NEXTJS, TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://binodwaibatamang.com.np/](https://binodwaibatamang.com.np/)
