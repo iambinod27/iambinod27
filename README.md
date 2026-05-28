@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Binod Waiba Tamang</h1>
-<h3 align="center">A Passionate, Quick Learning frontend developer from Nepal</h3>
+<h3 align="center">A Passionate, Quick Learning Web Developer from Nepal</h3>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Ztfno2Qtm2dVxS81f5/giphy.gif" width="300"/>
