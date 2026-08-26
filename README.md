@@ -7,7 +7,7 @@
 
 Profile views: ![](https://komarev.com/ghpvc/?username=iambinod27&color=blue)
 
-- 💼 Web Developer at **Parijat Infotech**, working daily in **React, Next.js, TypeScript, Tailwind CSS**
+- 💼 Web Developer, working daily in **React, Next.js, TypeScript, Tailwind CSS**
 - 🚀 All my projects live at [binodwaibatamang.com.np](https://binodwaibatamang.com.np/)
 - 💬 Ask me about **frontend architecture, React ecosystems, or anything web dev**
 - 📫 Reach me at [iambinod09@gmail.com](mailto:iambinod09@gmail.com)
