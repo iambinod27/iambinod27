@@ -1,4 +1,4 @@
-<img width="314" height="314" alt="image" src="https://github.com/user-attachments/assets/95493629-60a1-4431-8419-ac8895d38f33" /># Hi 👋, I'm Binod Waiba Tamang
+# Hi 👋, I'm Binod Waiba Tamang
 ### Web Developer | Building with React, Next.js & TypeScript
 
 <p align="center">
