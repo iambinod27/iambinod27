@@ -1,33 +1,23 @@
+# Hi 👋, I'm Binod Waiba Tamang
 
-<h1 align="center">Hi 👋, I'm Binod Waiba Tamang</h1>
-<h3 align="center">A Passionate, Quick Learning Web Developer from Nepal</h3>
+### Web Developer @ Parijat Infotech | Building with React, Next.js & TypeScript
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/Ztfno2Qtm2dVxS81f5/giphy.gif" width="300"/>
-</div>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iambinod27&label=Profile%20views&color=0e75b6&style=flat" alt="iambinod27" /> </p>
-
-- 🌱 I’m currently learning **AI/ML**
-
-- 👨‍💻 All of my projects are available at [https://binodwaibatamang.com.np/](https://binodwaibatamang.com.np/)
-
-- 💬 Ask me about **WEB DEVELOPEMENT**
-
-- 📫 How to reach me **iambinod09@gmail.com**
-
-- ⚡ Fun fact **I make jokes while working, you won't even know when it's over.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/iambinod10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iambinod10" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/binod-waiba-tamang-861b45230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/binod-waiba-tamang-861b45230/" height="30" width="40" /></a>
-<a href="https://instagram.com/iambinod__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iambinod__" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXYyYTl0aGYwOG4zN25zNmJoOXNoZDBrMHVpdmxzeHhvbWh4NWs3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qyzTzOOmSiqXF8bmvh/giphy.gif" width="700"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+Profile views: ![](https://komarev.com/ghpvc/?username=iambinod27&color=blue)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iambinod27&show_icons=true&locale=en&layout=compact" alt="iambinod27" /></p>
+- 💼 Web Developer at **Parijat Infotech**, working daily in **React, Next.js, TypeScript, Tailwind CSS**
+- 🚀 All my projects live at [binodwaibatamang.com.np](https://binodwaibatamang.com.np/)
+- 💬 Ask me about **frontend architecture, React ecosystems, or anything web dev**
+- 📫 Reach me at [iambinod09@gmail.com](mailto:iambinod09@gmail.com)
+- ⚡ Fun fact: I make jokes while working, you won't even know when it's over
 
+### Connect with me:
+[![Twitter](icon-link)](twitter-url) [![LinkedIn](icon-link)](linkedin-url) [![Instagram](icon-link)](instagram-url)
 
+### Languages and Tools:
+<p align="left">
+  <!-- keep your existing icon row -->
+</p>
