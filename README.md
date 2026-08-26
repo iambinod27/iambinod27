@@ -2,7 +2,7 @@
 ### Web Developer | Building with React, Next.js & TypeScript
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXYyYTl0aGYwOG4zN25zNmJoOXNoZDBrMHVpdmxzeHhvbWh4NWs3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qyzTzOOmSiqXF8bmvh/giphy.gif" width="400"/>
+<img src="https://media.giphy.com/media/Ztfno2Qtm2dVxS81f5/giphy.gif" width="400"/>
 </p>
 
 Profile views: ![](https://komarev.com/ghpvc/?username=iambinod27&color=blue)
